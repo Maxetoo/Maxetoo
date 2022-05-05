@@ -1,7 +1,6 @@
-Hi 👋 My name is Maxwell Etombi
-===============================
+Hi 👋 My name is ## Maxwell Etombi
 
-Front end developer
+FRONT END DEV
 -------------------
 
 Love building...
@@ -26,13 +25,3 @@ Love building...
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Maxetoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EtombiMaxwell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Maxetoo"><img src="https://github-readme-stats.vercel.app/api?username=Maxetoo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maxetoo's GitHub stats" /></a>
