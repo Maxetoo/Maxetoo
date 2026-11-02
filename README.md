@@ -7,7 +7,7 @@ Software engineer and founder. I build web platforms, SaaS products and AI-power
 ### What I work with
 **Languages:** TypeScript, JavaScript, Python, SQL  
 **Frontend:** React, Next.js  
-**Backend & Data:** Node.js, Express, PostgreSQL, MongoDB  
+**Backend & Data:** Node.js, Express, PostgreSQL, MongoDB, Redis
 **AI & ML:** LLMs, RAG, vector databases, AI agents, fine-tuning, scikit-learn  
 **Infrastructure:** Linux VPS, Render, Vercel, Cloudflare (R2, Workers), Twilio
 
